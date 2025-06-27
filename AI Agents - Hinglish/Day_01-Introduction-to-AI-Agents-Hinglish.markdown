@@ -3,8 +3,8 @@
 ## 📌 1. Course Ki Shuruaat
 Yeh session batata hai difference between **AI Automation** aur **AI Agents**.
 
-- Instructor ne kaha hai ki course ko seriously lena hoga aur notes likhna important hai — chhoti galti bhi bade issues create kar sakti hai.
-- Course ka main focus **AI Agents** par hoga, automation sirf thoda cover hoga.
+- Course ko seriously lena hoga aur notes likhna zaroori hai — chhoti galti bhi bade issues create kar sakti hai.
+- Course ka main focus AI Agents par hoga, automation sirf thoda cover hoga.
 
 ## 🤖 2. AI Automation Kya Hai?
 **Definition**: Aise software jo repeat hone wale kaam bina soch-samajh ke karte hain, bas rules follow karte hain.
