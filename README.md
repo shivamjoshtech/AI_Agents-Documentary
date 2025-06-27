@@ -53,6 +53,6 @@ This is a personal learning repo. Mistakes are welcome. Contributions are also w
 
 ## 🧾 License
 
-This project is licensed under the [MIT License](https://github.com/shivamjoshtech/AI_Agents-Documantry/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/shivamjoshtech/AI_Agents-Documentary/blob/main/LICENSE).
 
 
