@@ -1,4 +1,4 @@
-# Introduction - AI Agents (Hinglish Version)
+# Introduction - AI Agents
 
 ## 📌 1. Course Ki Shuruaat
 Yeh session batata hai difference between **AI Automation** aur **AI Agents**.
