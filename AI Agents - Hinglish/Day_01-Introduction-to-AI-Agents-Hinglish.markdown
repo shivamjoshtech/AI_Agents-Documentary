@@ -1,4 +1,4 @@
-# AI Agents Masterclass – Introduction Notes (Hinglish Version)
+# Introduction - AI Agents (Hinglish Version)
 
 ## 📌 1. Course Ki Shuruaat
 Yeh session batata hai difference between **AI Automation** aur **AI Agents**.
