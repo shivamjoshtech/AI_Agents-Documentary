@@ -1,4 +1,4 @@
-# AI Agents Masterclass – Introduction Notes
+# Introduction - AI Agents
 
 ## 📌 1. Course Orientation
 The session introduces **AI Automation** vs **AI Agents**.
