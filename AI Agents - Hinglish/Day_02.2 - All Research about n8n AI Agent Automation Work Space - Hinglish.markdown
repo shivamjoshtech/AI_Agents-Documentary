@@ -1,5 +1,8 @@
 # All Research about n8n AI Agent Automation Work Space 🚀
 
+![🤖 Build Your Own Smart AI Agents That Do the Work for You (No Coding Required!)](https://github.com/user-attachments/assets/76f48842-0fa0-4686-81ca-211328f28786)
+
+
 Yeh notes ek detailed tutorial video ke basis par bane hain jo **n8n platform** ka use karke AI agents banane pe focus karta hai. Yeh notes n8n ke core components, functionalities, aur best practices ko deeply explore karte hain, taaki AI-powered automation workflows banane aur manage karne mein aasani ho. Content ko structured way mein diya gaya hai taki platform ka dashboard, hierarchy, credentials, executions, variables, templates, aur documentation aur community support ka role samajh aaye. Yeh notes practical insights, analogies, aur strategic learning tips ke saath Hinglish mein hain, taaki beginners aur intermediate users easily samajh sakein. Saare emojis original summary se liye gaye hain taki consistency aur engagement bana rahe. 📚🔑
 
 ---
@@ -32,6 +35,8 @@ In components ko master karke, users n8n dashboard ko confidently navigate kar s
 ## n8n ka Hierarchical Structure 🔍
 
 Video ka ek key insight yeh hai ki n8n ka hierarchical structure samajhna zaroori hai, jo work ko logical aur scalable framework mein organize karta hai. Yeh hierarchy—**workspaces > projects > workflows > nodes**—n8n ka backbone hai aur complex AI agent setups manage karne ke liye critical hai. Niche hierarchy ka detailed breakdown aur uski importance di gayi hai:
+
+![ChatGPT Image Jun 29, 2025, 04_18_37 AM](https://github.com/user-attachments/assets/bf73786a-1411-4668-bae7-b5eaf66cb5ec)
 
 - **Workspaces**: Top level pe, workspaces related projects ko group karne dete hain, jisse multiple automation initiatives manage karna easy ho jata hai. Jaise, ek workspace specific client, department, ya project category (jaise “Marketing Automations” ya “Client X”) ke liye ho sakta hai. Workspaces clean separation aur team collaboration ko streamline karte hain. 🗂️
 - **Projects**: Workspaces ke andar, projects related workflows ka collection hote hain jo ek specific objective ke liye hote hain. Jaise, “Social Media Automation” project mein scheduling posts, engagement analysis, aur reports bhejne ke workflows ho sakte hain. Projects clarity aur focus dete hain, jisse multiple automations efficiently manage ho sakein. 📋
