@@ -1,5 +1,7 @@
 # All Research about n8n AI Agent Automation Work Space 🚀
 
+![🤖 Build Your Own Smart AI Agents That Do the Work for You (No Coding Required!)](https://github.com/user-attachments/assets/d9d84ad3-7dc4-4d84-9dd1-f2db1a8b3cf4)
+
 Below is a comprehensive set of notes based on a detailed tutorial video focused on building AI agents using the **n8n platform**. These notes provide an in-depth exploration of the platform’s core components, functionalities, and best practices for creating and managing AI-powered automation workflows. Structured to offer a thorough understanding, the content covers the n8n dashboard, hierarchical organization, credentials, executions, variables, templates, and the critical role of documentation and community support. The notes incorporate practical insights, analogies, and strategic learning tips to ensure users can confidently navigate and leverage n8n for automation success. 📚🔑
 
 ---
