@@ -35,6 +35,8 @@ By mastering these components, users can navigate the n8n dashboard with confide
 
 A key insight from the video is the importance of understanding n8n’s hierarchical structure, which organizes work into a logical and scalable framework. This hierarchy—**workspaces > projects > workflows > nodes**—is the backbone of n8n’s organizational system and is critical for managing complex AI agent setups. Here’s a detailed breakdown of the hierarchy and its significance:
 
+![ChatGPT Image Jun 29, 2025, 04_18_37 AM](https://github.com/user-attachments/assets/4b9a42ac-e647-461d-9b92-39e62f0734bc)
+
 - **Workspaces**: As the highest level, workspaces allow users to group related projects, making it easier to manage multiple automation initiatives. For example, a workspace might be dedicated to a specific client, department, or project category (e.g., “Marketing Automations” or “Client X”). Workspaces ensure clean separation and streamline collaboration for teams. 🗂️
 - **Projects**: Within a workspace, projects organize related workflows under a specific objective. For instance, a project titled “Social Media Automation” might contain workflows for scheduling posts, analyzing engagement, and sending reports. Projects provide clarity and focus, enabling users to manage multiple automations efficiently. 📋
 - **Workflows**: Workflows are the operational units where automation logic is defined. Each workflow consists of a series of nodes that execute tasks in sequence or based on triggers. For example, a workflow might monitor a Gmail inbox for new emails, extract data, and update a Notion database. Workflows are highly customizable, supporting both simple and complex automations. 🔄
