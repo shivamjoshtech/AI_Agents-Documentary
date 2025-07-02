@@ -2,7 +2,6 @@
 
 ![ChatGPT Image Jul 2, 2025, 11_14_34 PM](https://github.com/user-attachments/assets/887952fa-7314-47a9-a27a-15536317387f)
 
-
 These notes provide a comprehensive overview of the third video in a beginner-friendly AI automation series focused on the **n8n platform** (referred to as Na10 or N10 in the transcript, corrected here to n8n), a powerful no-code automation tool. The instructor emphasizes the importance of this session for newcomers, urging viewers to follow closely without skipping steps to avoid confusion in future lessons. The core focus is on understanding the different types of **nodes** in n8n workflows—Trigger, Action, Utility, Code, and Advanced AI nodes—with detailed explanations of their roles and interactions. Using relatable analogies, practical demos, and troubleshooting tips, the video makes complex automation concepts accessible to all. These notes dive deep into the five node types, their practical applications, and key insights to empower users to build effective AI-driven automations. 🚀🔧
 
 ---
