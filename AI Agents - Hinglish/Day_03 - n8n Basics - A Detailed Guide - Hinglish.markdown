@@ -1,5 +1,7 @@
 # n8n Basics - Ek Detailed Guide 🚀
 
+![ChatGPT Image Jul 2, 2025, 09_44_04 PM](https://github.com/user-attachments/assets/13ce1048-ae57-4147-a060-ef2bd18ee0c2)
+
 Yeh notes ek detailed video series ke teesre part pe based hain jo **n8n platform** (jo original summary mein Na10 ke naam se galti se mention hua tha, yahan n8n ke roop mein sahi kiya gaya hai) ka use karke AI agents banane pe focus karti hai. Presenter n8n dashboard ka ek gehra walkthrough deta hai, iske core components—workspaces, projects, workflows, nodes, credentials, executions, templates, aur variables—ko beginner-friendly tareeke se explain karta hai. Iska goal hai users ko n8n ke strong foundational understanding dena, taaki woh platform ko confidently navigate kar sakein aur AI-driven automation workflows bana sakein. Practical insights, relatable analogies, aur strategic learning tips ke saath, yeh notes n8n ke complex concepts ko sabke liye accessible banate hain, chahe woh beginners ho ya tech enthusiasts. 📚🔑
 
 ---
